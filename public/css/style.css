@@ -331,6 +331,7 @@ body {
     -ms-flex-order: -1;
     order: -1;
     margin-bottom: 1.5rem;
+    margin-right: 40px;
   }
 }
 
@@ -830,6 +831,7 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  justify-content: flex-end;
 }
 .footer__nav li {
   margin-left: 1.5rem;
